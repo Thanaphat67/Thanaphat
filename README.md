@@ -8,6 +8,7 @@
 <p align="center">
   <img src="./thanaphat_lightning_welcome.gif" width="100%" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
