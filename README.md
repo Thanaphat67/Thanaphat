@@ -14,9 +14,5 @@
 </p>
 
 <p align="center">
-  <i>"Dream it. Believe it. Build it."</i>
-</p>
-
-<p align="center">
   Thanks for stopping by! ✨
 </p>
