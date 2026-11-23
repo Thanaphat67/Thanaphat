@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="./thanaphat_lightning_welcome.gif" width="100%" />
+  <img src="./Fi.gif" width="100%" />
 </p>
 
 ---
