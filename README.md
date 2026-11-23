@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Information+Science+Student;Always+Learning+Something+New." />
+  <img src="./thanaphat_lightning_welcome.gif" width="100%" />
 </p>
 
 ---
