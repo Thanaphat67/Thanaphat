@@ -5,9 +5,20 @@
   Welcome to my GitHub Profile
 </h3>
 
+<!-- Lightning Welcome Animation -->
 <p align="center">
-  <img src="./Fi.gif" width="100%" />
+  <img
+    src="./thanaphat_lightning_welcome_fixed.gif"
+    width="100%"
+    alt="Thanaphat67 Welcome Animation"
+  />
 </p>
+
+<!-- Welcome Text -->
+<h2 align="center">
+  Welcome to my GitHub Profile ⚡
+</h2>
+
 
 ---
 
