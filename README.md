@@ -5,29 +5,18 @@
   Welcome to my GitHub Profile
 </h3>
 
-<!-- Lightning Welcome Animation -->
 <p align="center">
-  <img
-    src="./thanaphat_lightning_welcome_fixed.gif"
-    width="100%"
-    alt="Thanaphat67 Welcome Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Information+Science+Student;Always+Learning+Something+New." />
 </p>
-
-<!-- Welcome Text -->
-<h2 align="center">
-  Welcome to my GitHub Profile ⚡
-</h2>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-- Information Science Student
-- Always learning and improving my skills
-- Interested in technology and software development
-- Enjoy building new things and solving problems
+- 🎓 Information Science Student
+- 🌱 Always learning and improving my skills
+- 💡 Interested in technology and software development
+- 🚀 Enjoy building new things and solving problems
 
 ---
 
